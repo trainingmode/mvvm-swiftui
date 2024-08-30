@@ -1,6 +1,6 @@
 # **MVVM SwiftUI Example**
 
-This an example showcasing MVVM patterns in SwiftUI.
+This an example demonstrating MVVM patterns in SwiftUI.
 
 We create a simple component containing two buttons placed horizontally.
 
